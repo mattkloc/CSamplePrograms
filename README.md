@@ -7,6 +7,8 @@ This project consists of a collection of small C programs that fulfill basic tas
 
 Each program and its intended usage will be described within this document.
 
+In order to run these programs you must clone the contents of this repository to your system. Change into the CPrograms directory using the command line utility "cd", then generate the executable files by using the utility make by typing "make" into the command line. You may then type "./" followed by the program name in order to run the executable(s).
+
  ----------
 | Programs |
  ----------
